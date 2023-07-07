@@ -1,9 +1,9 @@
 {
   "displayName" : "Anydesk",
   "author" : ["Blaise DRAYER"],
-  "contributor" : ["Gilles DUBOIS", "Damien BELLIARD"],
+  "contributor" : ["Gilles DUBOIS", "Damien BELLIARD","Eugène CAUSSAT"],
   "supportedAgent" : ["Windows"],
-  "version" : "1.0",
+  "version" : "2.0",
   "licence" : "GPLv2",
   "description" : {
     "fr" : "Remonte la version et l'ID Anydesk",
